@@ -29,8 +29,8 @@ import java.awt.Font;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Color3f;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Color3f;
 import javax.swing.*;
 
 import java.awt.*;
